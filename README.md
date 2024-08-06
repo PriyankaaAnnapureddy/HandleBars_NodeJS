@@ -1,2 +1,2 @@
-# Week6
+# WebFrameworks_HandleBars
  Handlebars activity
